@@ -1,0 +1,5 @@
+# Temporary / scratch files
+assets/*_b64.txt
+*.tmp
+.DS_Store
+Thumbs.db
