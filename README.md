@@ -2,6 +2,8 @@
 
 Sitio web oficial y catálogo interactivo para el consultorio médico **FRK Integrativa**, combinando una landing page clínica de alta gama, catálogo de botica con 35 espacios para productos, agenda de citas y pedidos directos vía WhatsApp.
 
+🌐 **Sitio Web en Vivo:** [https://emitoledo2008-star.github.io/frkv.1/](https://emitoledo2008-star.github.io/frkv.1/)
+
 ---
 
 ## 🌿 Características Principales
@@ -44,11 +46,11 @@ frk-integrativa/
 
 ## 🚀 Despliegue y Uso
 
-1. Clonar el repositorio:
+1. **Visitar online:** [https://emitoledo2008-star.github.io/frkv.1/](https://emitoledo2008-star.github.io/frkv.1/)
+2. O clonar el repositorio localmente:
    ```bash
-   git clone https://github.com/emitoledo2008-star/frkv1.git
+   git clone https://github.com/emitoledo2008-star/frkv.1.git
    ```
-2. Abrir `index.html` en cualquier navegador web moderno (Google Chrome, Microsoft Edge, Safari, Firefox). No requiere servidores complejos ni pasos de compilación.
 
 ---
 
